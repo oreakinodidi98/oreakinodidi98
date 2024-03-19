@@ -19,12 +19,12 @@ Welcome to Ore's Profile! 👋
 Hi there! I'm Ore Akin-Odidi, a Cloud Solution  Architect from London. Welcome to my GitHub profile! Here you'll find a variety of projects and repositories showcasing my skills, interests, and contributions to the world of technology.
 
 ## About Me ℹ️
-- 🌟 Python (Programming Language); Azure
+- 🌟 Python (Programming Language); Azure; DevOps ; GitHub ; IAC; Kubernetes
 - 💼 Cloud Solution Architect
 - 🎓 The university of Nottingham
-- 🌱 I'm currently learning c#
+- 🌱 I'm currently learning C#
 - 💡 Fun fact: I Love playing tennis
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: HE/HIM
 
 ## My Interests 🌍
 I'm deeply interested in:
@@ -44,7 +44,7 @@ Feel free to reach out to me for collaborations, questions, or just to say hi! I
 ## Projects 🚀
 Here are a few projects I'm proud of:
 - [cloud_ai_project](https://github.com/oreakinodidi98/cloud_ai_project): Creating an .NET Blazor Application that shows the various capabilities of Azure OpenAi Functions.
-- [petstore](https://github.com/oreakinodidi98/petstore): Building Azure Petsroe Using Terraform showing capabilities ofAzure.
+- [petstore](https://github.com/oreakinodidi98/petstore): Building Azure Pet store Using Terraform showing capabilities of Azure.
 - [Static_CV](https://github.com/oreakinodidi98/oreakinodidi98.github.io): Building a Static Website to display CV.
 
 You can explore more of my projects and contributions in my [GitHub repositories](https://github.com/oreakinodidi98).

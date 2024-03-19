@@ -48,7 +48,7 @@ Here are a few projects I'm proud of:
 - [petstore](https://github.com/oreakinodidi98/petstore): Building Azure Petsroe Using Terraform showing capabilities ofAzure.
 - [Static_CV](https://github.com/oreakinodidi98/oreakinodidi98.github.io): Building a Static Website to display CV.
 
-You can explore more of my projects and contributions in my [GitHub repositories]((https://github.com/oreakinodidi98).
+You can explore more of my projects and contributions in my [GitHub repositories](https://github.com/oreakinodidi98).
 
 ## Skills 🛠️
 - C++

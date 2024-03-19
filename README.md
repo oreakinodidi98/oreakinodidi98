@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
 Welcome to Ore's Profile! 👋
 
 Hi there! I'm Ore Akin-Odidi, a Cloud Solution  Architect from London. Welcome to my GitHub profile! Here you'll find a variety of projects and repositories showcasing my skills, interests, and contributions to the world of technology.

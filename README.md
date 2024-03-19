@@ -44,11 +44,11 @@ Feel free to reach out to me for collaborations, questions, or just to say hi! I
 
 ## Projects 🚀
 Here are a few projects I'm proud of:
-- [cloud_ai_project]([Project URL](https://github.com/oreakinodidi98/cloud_ai_project)): Creating an .NET Blazor Application that shows the various capabilities of Azure OpenAi Functions.
-- [petstore]([Project URL](https://github.com/oreakinodidi98/petstore)): Building Azure Petsroe Using Terraform showing capabilities ofAzure.
-- [Static_CV]([Project URL](https://github.com/oreakinodidi98/oreakinodidi98.github.io)): Building a Static Website to display CV.
-[Add image analysis capabilities to your React application](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/call-analyze-image-40?tabs=rest&WT.mc_id=academic-105496-cacaste&pivots=programming-language-rest-api)
-You can explore more of my projects and contributions in my [GitHub repositories](GitHub Profile URL).
+- [cloud_ai_project](https://github.com/oreakinodidi98/cloud_ai_project): Creating an .NET Blazor Application that shows the various capabilities of Azure OpenAi Functions.
+- [petstore](https://github.com/oreakinodidi98/petstore): Building Azure Petsroe Using Terraform showing capabilities ofAzure.
+- [Static_CV](https://github.com/oreakinodidi98/oreakinodidi98.github.io): Building a Static Website to display CV.
+
+You can explore more of my projects and contributions in my [GitHub repositories]((https://github.com/oreakinodidi98).
 
 ## Skills 🛠️
 - C++
@@ -65,4 +65,4 @@ You can explore more of my projects and contributions in my [GitHub repositories
 - Azure DevOps
 - Solution Architecture
 
-Thanks for stopping by! I hope you find something interesting in my profile. Don't forget to [follow me]([GitHub Profile URL](https://github.com/oreakinodidi98)) for updates on my latest projects and activities. Happy coding! 😊
+Thanks for stopping by! I hope you find something interesting in my profile. Don't forget to [follow me](https://github.com/oreakinodidi98) for updates on my latest projects and activities. Happy coding! 😊
